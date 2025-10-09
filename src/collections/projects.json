@@ -1,38 +1,44 @@
 [
 	{
-		"name": "🧠 AI Chat with Thinking UI",
-		"description": "This project leverages DeepSeek-R1 and Streamlit to create a lightweight, locally running ChatGPT-style chatbot with a unique 'thinking' UI.",
-		"image": "/assets/images/projects/thinking-ui.jpg",
+		"name": "🎙️ AI Travel Guide Voice Bot",
+		"description": "A sophisticated real-time AI travel guide powered by AssemblyAI, OpenAI, and ElevenLabs. This intelligent voice bot provides personalized travel recommendations and answers questions with natural-sounding AI voice.",
+		"image": "/assets/images/projects/ai-travel-guide-voice-bot.png",
+		"url": "https://github.com/spartan-haohoang/ai-travel-guide-voice-bot"
+	},
+	{
+		"name": "🧠 DeepSeek Thinking UI",
+		"description": "A professional ChatGPT-like interface with visible reasoning powered by DeepSeek-R1. Experience AI thinking process in real-time with an intuitive user interface.",
+		"image": "/assets/images/projects/deepseek-thinking-ui.jpg",
 		"url": "https://github.com/spartan-haohoang/deepseek-thinking-ui"
 	},
 	{
-		"name": "🎙️ Realtime AI Travel Guide Voice Bot",
-		"description": "Powered by AssemblyAI, OpenAI, and ElevenLabs, this real-time voice bot listens to you, understands your queries, and responds with a natural-sounding AI voice",
-		"image": "/assets/images/projects/real-time-voicebot.png",
-		"url": "https://github.com/spartan-haohoang/real-time-voicebot"
+		"name": "⚡ LLM Quantization Zoo",
+		"description": "A collection of hands-on notebooks demonstrating various model quantization techniques, including GPTQ, GGUF, ExLlamaV2, and 8-bit quantization for efficient model deployment.",
+		"image": "/assets/images/projects/llm-quantization-zoo.jpg",
+		"url": "https://github.com/spartan-haohoang/LLM-Quantization-Zoo"
 	},
 	{
-		"name": "🚀 Multimodal RAG with DeepSeek & Qdrant",
-		"description": "A powerful Retrieval-Augmented Generation (RAG) system that combines text and image embeddings with DeepSeek and Qdrant to provide rich contextual responses! 🚀",
-		"image": "/assets/images/projects/deepseek-multimodal-RAG.jpg",
-		"url": "https://github.com/spartan-haohoang/deepseek-multimodal-RAG"
+		"name": "📚 LLM Finetuning Cookbook",
+		"description": "A hands-on, code-first cookbook for fine-tuning Large Language Models (LLMs) across various techniques and tasks. No frills, just practical code and real-world applications.",
+		"image": "/assets/images/projects/llm-finetuning-cookbook.jpg",
+		"url": "https://github.com/spartan-haohoang/LLM-Finetuning-Cookbook"
 	},
 	{
-		"name": "🏥 AI-Powered Chest X-Ray Report Generator",
-		"description": "This project utilizes MAIRA-2, a state-of-the-art multimodal AI model, to analyze X-ray images and provide automatic findings with just a few clicks. 🩻",
-		"image": "/assets/images/projects/ai-xray-report-generator.jpg",
-		"url": "https://github.com/spartan-haohoang/ai-xray-report-generator"
+		"name": "🎯 Ensemble Learning Tutorial",
+		"description": "A comprehensive machine learning project demonstrating ensemble learning techniques including bagging, boosting, and stacking methods with Jupyter notebooks and Docker support.",
+		"image": "/assets/images/projects/ensemble-learning-tutorial.jpg",
+		"url": "https://github.com/spartan-haohoang/ensemble-learning-tutorial"
 	},
 	{
-		"name": "🚀 AI Reasoning Engine using GRPO",
-		"description": "Building a robust reasoning model inspired by DeepSeek-R1, leveraging Unsloth for ultra-fast training and inference. 🧠.",
-		"image": "/assets/images/projects/grpo-reasoning-model.jpeg",
-		"url": "https://github.com/spartan-haohoang/grpo-reasoning-model"
+		"name": "👁️ Attention Captioning Tutorial",
+		"description": "PyTorch implementation of image captioning with and without attention mechanisms using Flickr8K dataset. Learn the fundamentals of computer vision and natural language processing.",
+		"image": "/assets/images/projects/attention-captioning-tutorial.jpg",
+		"url": "https://github.com/spartan-haohoang/attention-captioning-tutorial"
 	},
 	{
-		"name": "📖 RepoAgent: AI-Powered Documentation Assistant",
-		"description": "RepoAgent is your intelligent AI-powered assistant that automatically generates and maintains documentation for your code repository",
-		"image": "/assets/images/projects/repo-agent.png",
-		"url": "https://github.com/spartan-haohoang/RepoAgent"
+		"name": "🔧 Deep Learning Optimization Tutorial",
+		"description": "Interactive deep learning optimization tutorial with Jupyter notebooks. Master neural network tuning, hyperparameter optimization, and model performance techniques through practical exercises.",
+		"image": "/assets/images/projects/deep-learning-optimization-tutorial.jpg",
+		"url": "https://github.com/spartan-haohoang/deep-learning-optimization-tutorial"
 	}
 ]
