@@ -1,24 +1,24 @@
 [
 	{
+	  "dates": "September 2025 – Present",
+	  "role": "AI Researcher",
+	  "company": "Befoundr",
+	  "description": "Researched and integrated state-of-the-art LLMs, RAG, and agentic AI patterns into productivity chatbots for founders. Designed knowledge retrieval pipelines and multi-step reasoning workflows for investor-focused insights. Consulted on AI architecture, SoTA model selection, prompt engineering, and LLM system design.",
+	  "logo": "/assets/images/experiences/spartandev_logo.ico"
+	},
+	{
 	  "dates": "October 2023 – Present",
 	  "role": "AI Researcher and Software Engineer",
 	  "company": "Spartan",
-	  "description": "Researching advanced RAG methods (GraphRAG, PathRAG) and designing agentic LLM systems for code review automation using Kotlin; applying Computer Vision and VLMs for technical drawing understanding.",
+	  "description": "Built and deployed agentic AI pipelines combining LLMs, RAG (GraphRAG, LightRAG, PathRAG), and vector search for real-world applications. Designed prompt engineering patterns for multi-step reasoning, classification, summarization, and code review automation. Fine-tuned and benchmarked LLMs for domain-specific tasks (coding, PDF parsing, technical diagram understanding). Led AI knowledge-sharing sessions internally; advised on team AI strategy and candidate hiring.",
 	  "logo": "/assets/images/experiences/spartandev_logo.ico"
 	},
 	{
 	  "dates": "October 2023 – March 2025",
 	  "role": "Senior AI Engineer",
 	  "company": "J.D. Power",
-	  "description": "Spearheaded PDF parsing R&D (Azure Document Intelligence, PyMuPDF) and deployed scalable GCP backend services (Kubernetes, Helm) with LangChain/LlamaIndex for RAG in automotive data solutions.",
+	  "description": "Designed end-to-end RAG pipelines using LangChain and LlamaIndex. Built structured extraction systems for thousands of complex automotive incentive PDFs. Built and operated full backend + ML infra on GCP, Kubernetes, Terraform, Helm. Designed high-reliability systems for large-scale batch inference & parsing. Integrated Azure Document Intelligence with custom OCR + NLP pipelines. Improved accuracy across highly variable OEM document formats (Toyota, Ford, Hyundai, VW…).",
 	  "logo": "/assets/images/experiences/jdpower_logo.ico"
-	},
-	{
-	  "dates": "March 2023 – March 2025",
-	  "role": "Research Assistant",
-	  "company": "The International Society of Data Scientists",
-	  "description": "Researched LLM/NLP methods, mentored junior researchers, developed a Vietnamese real estate chatbot, and built deep learning models for risk analysis and market forecasting.",
-	  "logo": "/assets/images/experiences/isods_logo.ico"
 	},
 	{
 	  "dates": "January 2023 – December 2023",

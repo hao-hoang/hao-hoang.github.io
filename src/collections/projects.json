@@ -40,5 +40,53 @@
 		"description": "Interactive deep learning optimization tutorial with Jupyter notebooks. Master neural network tuning, hyperparameter optimization, and model performance techniques through practical exercises.",
 		"image": "/assets/images/projects/deep-learning-optimization-tutorial.jpg",
 		"url": "https://github.com/spartan-haohoang/deep-learning-optimization-tutorial"
+	},
+	{
+		"name": "📈 Trading Floor Agent",
+		"description": "Production-ready autonomous trading floor with 4 AI agents making trades, powered by 6 MCP servers and 44 tools. Features real-time dashboard, portfolio analytics, and Docker support.",
+		"image": "/assets/images/projects/trading-floor-agent.jpg",
+		"url": "https://github.com/hao-hoang/trading-floor-agent"
+	},
+	{
+		"name": "🤖 Agent Creator",
+		"description": "AI agent that creates other AI agents using AutoGen. Features dynamic agent generation, gRPC runtime, Streamlit UI, and Docker support for scalable agent communication.",
+		"image": "/assets/images/projects/agent-creator.jpg",
+		"url": "https://github.com/hao-hoang/agent-creator"
+	},
+	{
+		"name": "🦸 Sidekick Agent",
+		"description": "LangGraph-powered personal AI co-worker that works in your browser. Can browse the web, run Python code, search Wikipedia, manage files, and more - your own version of OpenAI's Operator Agent.",
+		"image": "/assets/images/projects/sidekick-agent.jpg",
+		"url": "https://github.com/hao-hoang/sidekick-agent"
+	},
+	{
+		"name": "👷 Engineering Team Agent",
+		"description": "4-agent CrewAI system that designs, builds, tests, and creates UI for software modules. Takes high-level requirements and produces complete, tested solutions with Docker support.",
+		"image": "/assets/images/projects/engineering-team-agent.jpg",
+		"url": "https://github.com/hao-hoang/engineering-team-agent"
+	},
+	{
+		"name": "📊 Stock Picker Agent",
+		"description": "AI-powered investment research and stock selection agent built with CrewAI. Uses specialized agents to find trending companies, conduct financial research, and select investment opportunities.",
+		"image": "/assets/images/projects/stock-picker-agent.jpg",
+		"url": "https://github.com/hao-hoang/stock-picker-agent"
+	},
+	{
+		"name": "🔍 Deep Research",
+		"description": "Multi-agent research system that conducts comprehensive research on any topic. Orchestrates specialized agents to plan searches, gather information, synthesize reports, and send results via email.",
+		"image": "/assets/images/projects/deep-research.jpg",
+		"url": "https://github.com/hao-hoang/deep-research"
+	},
+	{
+		"name": "📧 SDR Agent",
+		"description": "AI-powered Sales Development Representative that crafts and sends professional cold emails. Uses OpenAI to generate personalized emails and supports bulk sending via SendGrid or SMTP.",
+		"image": "/assets/images/projects/sdr-agent.jpg",
+		"url": "https://github.com/hao-hoang/sdr-agent"
+	},
+	{
+		"name": "👤 Career Digital Twin",
+		"description": "AI agent that represents you to potential employers. Uses your resume, LinkedIn profile, and personal summary to answer questions about your career, skills, and experience.",
+		"image": "/assets/images/projects/career-digital-twin.jpg",
+		"url": "https://github.com/hao-hoang/career-digital-twin"
 	}
 ]
